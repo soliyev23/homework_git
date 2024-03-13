@@ -1,6 +1,6 @@
 a = input("Nmadur kiriting--->")
-# a = 'ffgabnnkmm'
 # a = 'farrabennlakot'
+# a = 'ffgabnnkmm'
 a = list(a)
 natija,lst = [],[]
 for i in range(1,len(a)):
